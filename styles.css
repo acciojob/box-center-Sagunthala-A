@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+#contact{
+	/* Contact Us */
+
+position: absolute;
+width: 155px;
+height: 34px;
+left: 1365px;
+top: 26px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+
+color: red;
+
+	
+}
